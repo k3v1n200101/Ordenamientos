@@ -1,0 +1,44 @@
+#Tabla {
+    width: 815px;
+    height: 300px;
+
+}
+
+body {
+    background-image: url("https://fondosmil.com/fondo/27750.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+h2 {
+    text-align: center;
+}
+
+#Botones {
+    width: 200px;
+    margin-left: 800px;
+    position: absolute;
+    top: 100px;
+    left: 150px;
+}
+#BotonCrear{
+    position: absolute;
+    top: 0px;
+}
+
+
+#BotonOrdenarNombres{
+    position: absolute;
+    top: 50px;
+}
+#BotonOrdenarCantidad{
+    position: absolute;
+    top: 100px;
+}
+
+
